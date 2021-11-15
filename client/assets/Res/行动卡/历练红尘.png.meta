@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0e1b1d85-2ca0-4b6c-b23b-923db30956bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 227,
+  "height": 57,
+  "platformSettings": {},
+  "subMetas": {
+    "历练红尘": {
+      "ver": "1.0.4",
+      "uuid": "d2378baa-4f8f-4f3c-ba43-13e72a1db4a6",
+      "rawTextureUuid": "0e1b1d85-2ca0-4b6c-b23b-923db30956bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 227,
+      "height": 57,
+      "rawWidth": 227,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

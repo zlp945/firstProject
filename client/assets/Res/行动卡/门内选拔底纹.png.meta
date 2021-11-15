@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "375d758d-4325-4554-99ab-312330dbd25f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 286,
+  "height": 480,
+  "platformSettings": {},
+  "subMetas": {
+    "门内选拔底纹": {
+      "ver": "1.0.4",
+      "uuid": "a961d97a-4343-4514-9dcc-5051e7583f5e",
+      "rawTextureUuid": "375d758d-4325-4554-99ab-312330dbd25f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 286,
+      "height": 480,
+      "rawWidth": 286,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
